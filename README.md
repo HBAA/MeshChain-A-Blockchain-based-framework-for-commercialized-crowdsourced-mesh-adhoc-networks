@@ -27,7 +27,7 @@ Routing itself and detailed logging happen **off-chain**, while coordination, va
 
 ---
 
-## Paper Abstract (Short Version)
+## From MeshChain Paper
 
 Mesh networks provide decentralized connectivity for homes, enterprises, and wider deployments. Extending these networks to commercial use requires **incentive mechanisms** for mesh routers. While previous work has explored cryptocurrency-based rewards, open challenges remain in:
 
