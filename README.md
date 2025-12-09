@@ -79,8 +79,6 @@ This contract is intended to supply **input to the off-chain router selection lo
   - Packet forwarding percentage,
   - Reported routing cost.
 
-For full, function-level documentation, see [`docs/CONTRACTS.md`](docs/CONTRACTS.md).
-
 ---
 
 ## Basic Workflow
