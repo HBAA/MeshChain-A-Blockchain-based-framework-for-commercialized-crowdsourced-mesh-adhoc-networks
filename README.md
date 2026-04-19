@@ -1,4 +1,4 @@
-# MeshChain: A Blockchain-based Incentive Framework for Mesh Networks
+# MeshChain: A Blockchain-based Incentive Framework for crowdsourced Mesh and Ad Hoc Networks
 
 Smart contracts for **MeshChain**, a blockchain-based framework that guarantees **fair, trusted, and transparent payments** to mesh routers in commercialized mesh networks.
 
